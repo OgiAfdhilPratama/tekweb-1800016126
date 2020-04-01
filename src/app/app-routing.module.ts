@@ -15,7 +15,7 @@ const routes: Routes = [
 	component:StudentComponent
 },
 {   
-    path: 'teacher',
+    path:'teacher',
     component:TeacherComponent
 	
 }
